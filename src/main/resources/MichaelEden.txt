@@ -1,0 +1,8 @@
+Michael Eden
+sunday:Pull,Aerobic
+saturday:Rest
+tuesday:Antagonist
+wednesday:Pull
+thursday:Aerobic,Core
+friday:Pull
+monday:Rest

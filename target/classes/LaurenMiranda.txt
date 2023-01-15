@@ -1,0 +1,8 @@
+Lauren Miranda
+sunday:Aerobic,Pull
+saturday:Pull
+tuesday:Pull,Core
+wednesday:Antagonist,Aerobic,Core
+thursday:Rest
+friday:Antagonist,Core,Pull
+monday:Rest
